@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+body {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin-left: 83px;  
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background: #F3F4F6;
+    width: 1274px;
+    height: 607px;
+    margin-bottom: 209px;
+    margin-right: 83px;
+    margin-top: 208px;
+}
+
+.text {
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 56px;
+    color: #2C1500;
+    margin-left: 106px;
+    margin-top: 148px;
+    margin-bottom: 32px;
+    width: 636px;
+    height: 311px;
+}
+
+.visit_shop {
+    width: 152px;
+    height: 40px;
+    text-align: center;
+    background: #156963;
+    color: white;
+    font-family: 'Nunito';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: normal;
+    border: 0;
+}
+
+.visit_shop a {
+    color: white;
+    text-decoration: none;
+}
+
+.pict {
+    margin-left: 60px;
+    width: 523px;
+    height: 607px;
+}
+
+.pict img {
+    width: 524px;
+    height: 607px;
+}
+
